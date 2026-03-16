@@ -1,7 +1,7 @@
 
 # Drift Phonk Producer Toolkit
 
-A complete starter toolkit for producing **Drift Phonk / Phonk House** music inspired by tracks like **GigaChad Theme – g3ox_em**.
+A complete starter toolkit for producing **Drift Phonk / Phonk House**
 
 This repository contains **samples, MIDI patterns, textures, and templates** designed to help producers quickly create phonk-style tracks.
 
