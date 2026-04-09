@@ -1,9 +1,13 @@
+# 🔥 Drift Phonk Producer Toolkit
 
-# Drift Phonk Producer Toolkit
+> **Part of the [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) sample pack ecosystem**
 
-A complete starter toolkit for producing **Drift Phonk / Phonk House**
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
 
-This repository contains **samples, MIDI patterns, textures, and templates** designed to help producers quickly create phonk-style tracks.
+A complete starter toolkit for producing **Drift Phonk / Phonk House / Game Phonk**.
+
+This repository contains **samples, MIDI patterns, textures, templates, and genre-specific expansion packs** designed to help producers quickly create phonk-style tracks.
 
 ---
 
@@ -211,7 +215,38 @@ Not allowed:
 
 ---
 
+# Included Expansion Packs
+
+This repository includes additional genre packs beyond the core toolkit:
+
+- **`Drift_Phonk_Pack_V3/`** — Updated drift phonk content with refined 808s and cowbell patterns
+- **`GamePhonk/`** — Game phonk / phonk house variant with arcade-influenced sounds and harder drum patterns
+
+---
+
+# 🔗 More Free Sound Packs from TizWildin
+
+| Pack | Description |
+|------|-------------|
+| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples tuned to every chromatic key |
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters — noise, synth, drum, FX, cinematic |
+| [**Free Future Bass Producer Kit**](https://github.com/GareBear99/Free-Future-Bass-Producer-Kit) | Loops, fills, drums, bass, synths, pads, and FX |
+| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
+
+Explore the full plugin and resource list: [**Awesome Audio Plugins & Dev**](https://github.com/GareBear99/awesome-audio-plugins-dev)
+
+---
+
+# ☕ Support
+
+If these samples help your production, consider supporting:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+
+---
+
 # Credits
 
-Created for the **Drift Phonk Toolkit project**.
+Built by [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB).
 
