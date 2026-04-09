@@ -9,6 +9,18 @@ A complete starter toolkit for producing **Drift Phonk / Phonk House / Game Phon
 
 This repository contains **samples, MIDI patterns, textures, templates, and genre-specific expansion packs** designed to help producers quickly create phonk-style tracks.
 
+`drift-phonk` `game-phonk` `phonk-house` `808` `cowbell` `sample-pack` `midi` `music-production` `beat-making`
+
+---
+
+### Why this pack
+
+- **Complete phonk starter kit** — 808s, cowbells, drums, MIDI, FX, textures, templates
+- **3 genre packs in 1 repo** — core toolkit + Drift Phonk V3 + GamePhonk expansion
+- **Key-labeled samples** — 808s and cowbells matched in F minor for instant stacking
+- **MIDI patterns included** — cowbell melodies and bass grooves ready to drop
+- **100% free** — commercial use allowed
+
 ---
 
 # Features
